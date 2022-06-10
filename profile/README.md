@@ -2,4 +2,4 @@
 
 That simple idea resulted in the `web3r.chat` project and a grant from the DFINITY Foundation.
 
-To contact us talk to [bot-0](https://gmngn-xiaaa-aaaai-abegq-cai.ic0.app/)!
+To contact us talk to bot-0 at https://web3r.chat
