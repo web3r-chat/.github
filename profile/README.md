@@ -1,5 +1,3 @@
-"The [Internet Computer](https://dfinity.org/foundation/) is great, [Rasa chatbots](https://rasa.community/) are great, let's combine them."
+# [web3r.chat](https://web3r.chat)
 
-That simple idea resulted in the `web3r.chat` project.
-
-Talk to us at https://web3r.chat
+We build [Rasa chatbots](https://rasa.community/) for the [Internet Computer](https://dfinity.org/foundation/)
