@@ -2,4 +2,4 @@
 
 That simple idea resulted in the `web3r.chat` project.
 
-To contact us talk to bot-0 at https://web3r.chat
+Talk to us at https://web3r.chat
